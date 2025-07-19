@@ -1,0 +1,34 @@
+
+Critério 1
+
+Content Organization
+
+Is the article organized in a way that makes sense and is understandable to the reader? Does it follow a logical sequence for the topic? Please add a short comment justifying your evaluation. If you have any remark or suggestion on how it could be better, just write them below.
+
+
+Critério 2
+
+Relevance and quality of the content
+
+Is the relevance of the content being provided established, i.e., why should I be interested in this topic in the context of Visual Computing? Is the content sufficiently detailed and beyond common knowledge? Is it easy to grasp the key concepts and ideas to take away? In the case of a tutorial article, this evaluation considers both the article and the companion code for the evaluation, and will also cover how these are inter-related and how the companion code works to illustrate the concepts discussed. Please had a short comment justifying your evaluation. If you have any remark or suggestion on how it could be better, just write them below.
+
+
+Critério 3
+
+Clarity and Language
+
+Is the content described in a clear way that is easy to understand and in adequate language?
+
+
+Critério 4
+
+Quality of the Suggested References
+
+Are the included references and suggested reading adequate and useful? Do they relate with the described topic and complement it? Does it include recent sources?
+
+
+Critério 5
+
+Overall Score
+
+Overall, how do you rate this article, also considering it is presented in the context of Visual Computing? How well does it fit as a first source of knowledge on this specific topic?

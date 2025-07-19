@@ -1,0 +1,31 @@
+There are two types of topics:
+
+    1) Those that require writing a 4-page article and are more conceptual in nature (C). The 4-pages are expected to provide an overview of the interest and main aspects about the topic, also providing a small list of selected reading sources;
+    2) those requiring a 4-page tutorial and a demo script (in Python), marked with T, which have a more technical nature. The 4-pages, in this case, should explain the concept, overall ideas, and methods and provide enough information to help the reader replicate the demo.
+
+None of the two types of topics is expected to be easier or harder. However, please note that the T topics will require some programming.
+
+    (C or T) The Characteristics and Advances of the Vulkan Graphics Library
+    (C) Global Illumination: Purpose and Methods 
+    (C) Evolution and Recent Development of GPUs 
+    (C) The Visual Perception of Motion 
+    (T) The Purpose and Utility of Geometry Shaders 
+    (C) Definition, Purpose and Methods for Level-of-Detail in Computer Graphics 
+    (C or T) Adding Shadows to Scenes Through Shadow Mapping 
+    (C) VIsual Perception and Attention 
+    (C) The Rendering Pipeline of Godot 
+    (C) Selected Highlights of SIGGRAPH 2023 Advances in Gaming 
+    (C) The Impact of Deep Learning Super Sampling (DLSS) 
+    Illumination using Raytracing 
+    The Novel Approaches on Luminous Engine 
+    Graphics Pipeline Optimizations over Time 
+    Cel Shading 
+    Evolution and Practise of 3D tecnhologies 
+    Evolution of Non Euclidean Games 
+    Global Illumination using Surfels 
+    Procedural Generation of Environments 
+    Realtime pixelart effects for 3D scenes 
+    Realistic Skin and Hair Modelling in Videogames 
+    The Use of Quaternions in Computer Graphics
+    Use of Artificial Intelligence in Procedural Texturing 
+    Volumetric Lighting 

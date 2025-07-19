@@ -1,2 +1,12 @@
 # CV
-Every pratical assignment from CV is here, also might include some obsidian notes on the class material in the future if i ⭐feel like it⭐
+
+Notas:
+
+16.8 - Article
+16.5 - Review
+
+17.5 - Mid-Term
+17 - Presentation
+18 - Project
+
+Final - 17

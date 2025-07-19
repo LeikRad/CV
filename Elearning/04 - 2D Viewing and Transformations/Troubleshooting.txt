@@ -1,0 +1,29 @@
+Troubleshooting for Apple M1:
+(contributed by André Freitas)
+
+Dependências:
+
+Versão de Python compatível com este repositório do GIT, Python == 3.11.6
+O resto das dependências necessárias são possíveis de instalar através do PIP execeto:
+
+Glumpy e Triangle ->
+https://github.com/glumpy/glumpy/pull/307/files/466805643b65ccfe45349d88f4b43baa39b55896?short_path=39b9229#diff-39b9229fa61535931aba5a21a6b668aa1b6d16ab53461a82a902163137654464
+
+FreeType -> 
+É necessário instalar o homebrew (https://docs.brew.sh/Installation) para instalar a biblioteca do freetype
+https://formulae.brew.sh/formula/freetype
+
+Necessário forçar a versão do OpenGL:
+
+        pg.init()
+        pg.display.gl_set_attribute(pg.GL_CONTEXT_MAJOR_VERSION, 3)
+        pg.display.gl_set_attribute(pg.GL_CONTEXT_MINOR_VERSION, 3)
+        pg.display.gl_set_attribute(pg.GL_CONTEXT_PROFILE_MASK, pg.GL_CONTEXT_PROFILE_CORE)
+        pg.display.gl_set_attribute(pg.GL_CONTEXT_FORWARD_COMPATIBLE_FLAG, True)
+
+Troubleshoot Linux
+(contributed by Diogo Jesus)
+
+Erro para conseguir criar contexto OpenGL (problema surge em utilizadores que usam Wayland. É necessário forçar X11 para o pygame.
+
+Definir variável de ambiente: export PYOPENGL_PLATFORM=x11
